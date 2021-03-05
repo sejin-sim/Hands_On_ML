@@ -1,4 +1,4 @@
-# 책 : 핸즈온머신러닝(Hands-On ML) ML part
+# 책 : 핸즈온머신러닝2(Hands-On ML 2) ML part
 
 | Chapter | Topic | Notes |
 |:-:|---|---|
